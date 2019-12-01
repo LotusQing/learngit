@@ -1,6 +1,5 @@
-Git is a distriuted version control system.
-Git is a free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Creating a new branch is quick and simple.
-woca
+目前已有代码：
+1.两层神经网络
+2.训练词向量——SkipGram
+3.语言模型
+4.情感分析
